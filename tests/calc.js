@@ -28,7 +28,7 @@ describe('demo calculator tests', function(){
         
         homepage.enterOperator('-');
         
-        homepage.clickGo1();
+        homepage.clickGo();
 
         homepage.verifyResult('4');
 
