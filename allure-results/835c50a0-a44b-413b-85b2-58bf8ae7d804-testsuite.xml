@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1708334595835' stop='1708334618502'>
+    <name>demo calculator tests</name>
+    <title>demo calculator tests</title>
+    <test-cases>
+        <test-case start='1708334595836' status='failed' stop='1708334602803'>
+            <name>addition test</name>
+            <title>addition test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Error: spawn C:\Users\GOmpoy\node_modules\allure-commandline\dist\bin\allure.bat ENOENT</message>
+                <stack-trace>Error: spawn C:\Users\GOmpoy\node_modules\allure-commandline\dist\bin\allure.bat ENOENT
+                    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)
+                    at onErrorNT (node:internal/child_process:484:16)
+                    at processTicksAndRejections (node:internal/process/task_queues:82:21)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1708334602804' status='passed' stop='1708334608005'>
+            <name>subtraction test</name>
+            <title>subtraction test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1708334608005' status='passed' stop='1708334613197'>
+            <name>multiplication test</name>
+            <title>multiplication test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1708334613197' status='passed' stop='1708334618500'>
+            <name>division test</name>
+            <title>division test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
